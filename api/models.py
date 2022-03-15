@@ -29,7 +29,7 @@ class CustomUser(AbstractUser):
 class IPEDSDictionary(models.Model):
     """
     Dictionary of variables
-    - ipeds_model: The model that the dictionary data references
+    - model_name: The model that the dictionary data references
     - varnumber: Identifier number for variable
     - varname: Column-header name (short, all-caps) for variable
     - DataType: Either 'A' (alphanumeric) or 'N' (numeric)
