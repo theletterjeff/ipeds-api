@@ -1,5 +1,5 @@
 # Integrated Postsecondary Education Data System (IPEDS) API
-This is the codebase for an IPEDS API constructed using the Django REST Framework.
+This is the codebase for an IPEDS API constructed using the Django REST Framework. *As of September 2022, this project is on hold.*
 
 The project references a database that has been populated with data from the online [IPEDS data repository](https://nces.ed.gov/ipeds/use-the-data).
 
